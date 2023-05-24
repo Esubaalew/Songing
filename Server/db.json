@@ -1,0 +1,29 @@
+{
+  "songs": [
+    {
+      "title": "Imagine",
+      "description": "Imagine is a song by John Lennon that promotes peace and harmony.",
+      "id": 6
+    },
+    {
+      "title": "Happy",
+      "description": "Happy is a song by Pharrell Williams that celebrates happiness and joy.",
+      "id": 7
+    },
+    {
+      "title": "Let It Go",
+      "description": "Let It Go is a song from the movie Frozen that encourages letting go of fears and embracing one's true self.",
+      "id": 8
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "description": "Bohemian Rhapsody is a song by Queen that features various styles and genres in a complex and epic composition.",
+      "id": 9
+    },
+    {
+      "title": "I Will Survive",
+      "description": "I Will Survive is a song by Gloria Gaynor that expresses resilience and empowerment after a breakup.",
+      "id": 10
+    }
+  ]
+}

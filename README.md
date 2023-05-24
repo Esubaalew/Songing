@@ -1,0 +1,7 @@
+- cd client.
+- run (mpm install) to install all packages.<br>
+- run (npm start) to start serving the client app.<br>
+- open (https://localhost:3000) and now you can see the application in your browser.<br>
+- cd api.<br>
+- run (npm install) to install all packages.<br>
+- run (npm start) to start serving the server app.<br>
